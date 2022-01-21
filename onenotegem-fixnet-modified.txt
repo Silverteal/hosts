@@ -1,0 +1,7 @@
+192.229.211.199 lgincdnvzeuno.azureedge.net
+13.107.246.19 logincdn.msauth.net
+152.199.4.44 aadcdn.msftauth.net
+152.199.19.160 ajax.aspnetcdn.com
+13.107.42.12 1drv.ms
+13.107.42.13 onedrive.live.com
+13.107.42.12 docs.live.net
