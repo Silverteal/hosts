@@ -9,4 +9,5 @@
 52.84.225.18 cdn.mcr.ea.com
 96.7.119.14 pc.ea.com
 8.252.191.124 ssl-lvlt.cdn.ea.com
-203.186.47.56 origin-a.akamaihd.net
+203.186.47.59 origin-a.akamaihd.net
+
