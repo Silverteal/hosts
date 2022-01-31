@@ -1,12 +1,24 @@
+54.166.147.166 rtm.tnt-ea.com
 96.7.124.44 api1.origin.com
 223.119.140.224 service-aggregation-layer.juno.ea.com
 223.119.140.224 contentful-proxy.juno.ea.com
 223.119.140.224 autopatch.juno.ea.com
 223.119.140.224 desktop-config.juno.ea.com
 223.119.140.224 ratt.juno.ea.com
-23.32.248.137 pc-assets.ea.com
+223.119.140.224 service-aggregation-layer.juno.ea.com
+223.119.140.224 contentful-proxy.juno.ea.com
+223.119.140.224 autopatch.juno.ea.com
+223.119.140.224 desktop-config.juno.ea.com
+223.119.140.224 ratt.juno.ea.com
+219.76.10.195 pc-assets.ea.com
+219.76.10.203 pc-assets.ea.com
+104.109.129.225 pc-assets.ea.com
+23.44.51.33 pc-assets.ea.com
+23.32.248.144 pc-assets.ea.com
 52.84.225.18 cdn.mcr.ea.com
+52.84.225.49 cdn.mcr.ea.com
+184.87.102.84 pc.ea.com
+104.71.145.15 pc.ea.com
 96.7.119.14 pc.ea.com
-8.252.191.124 ssl-lvlt.cdn.ea.com
+203.186.47.56 origin-a.akamaihd.net
 203.186.47.59 origin-a.akamaihd.net
-
